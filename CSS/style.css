@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+}
+#menu-superior{
+    font-family: "inter";
+    background-color: #303030;
+    color: #FFFFFF;   
+    width: auto;
+    height: 475px;
+}
+#menu-cabecalho{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    font-weight: 600px;
+    padding-top: 206px;
+    padding-left: 62px;
+
+}
+#menu-descricao{
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 62px;
+}
+#menu-informacional{
+    font-family: "inter";
+    display: grid;
+    grid-auto-flow: column;
+    background-color: #F9F9F9;
+    width: auto;
+    height: 200px;
+}
+.dados{
+    padding-top: 75px;
+    margin-left: 30%;
+}
+#apresentacao{
+    display: grid;
+    grid-auto-flow: column;
+    height: 600px;
+    width: auto;
+    padding-top: 82px;
+    padding-bottom: 92px;
+}
+#apresentacao-texto{
+    margin: auto;
+}
+#apresentacao-titulo{
+    font-size: 40px;
+    font-family: 'inter';
+    font-weight: 500;
+}
+#apresentacao-descricao{
+    margin-top: 30px;
+    font-size: 24px;
+    font-family: 'inter';
+    font-weight: 300;
+}
+#apresentacao-imagem{
+    margin: auto;
+    padding-bottom: 92px;
+}
+#formulario{
+    text-align: center;
+    background-color: #303030;
+}
+#formulario-texto{
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "inter";
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    padding-top: 87px;
+    padding-bottom: 48px;
+}
+#formulario-nome{
+    font-family: 'raleway';
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 30px;
+    margin-bottom: 62px;
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    border: 0px;
+}
+#formulario-email{
+    font-family: 'raleway';
+    font-weight: 700;
+    font-size: 24px;
+    padding-left: 30px;
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    border: 0px;
+    margin-bottom: 88px;
+}
+button{
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: 'raleway';
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #C07212;
+    border: 0px;
+    margin-bottom: 87px;
+    line-height: 30px;
+    cursor: pointer;
+    /* https://docs.google.com/spreadsheets/d/1zFkPf3qIR6klRJZ6ypXFHIyuph001eICg-Y3OM-G-ZM/edit#gid=0 */
+}
