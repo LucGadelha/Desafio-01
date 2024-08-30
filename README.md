@@ -1,5 +1,8 @@
-# Desafio-01
-Landing Page criada para Desafio 01 do curso de tecnologia da escola DNC
+# Landing Page for apresentation
 
-link da planilha do formulário: https://shorturl.at/rBDQX<br>
-link do site na netlify: https://challenge01-l.netlify.app
+First project done in my entire life!
+
+Landing Page created for design presentation
+
+form spreadsheet link: [Form](https://shorturl.at/rBDQX)<br>
+website link on netlify: [Presentation page](https://challenge01-l.netlify.app)
